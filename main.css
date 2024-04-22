@@ -34,7 +34,7 @@ a{
     font-family: Arial;
     background-color: white;
     margin: 20pt;
-    border: 9px solid rgb(0, 0, 0);
+    border: 5px solid rgb(0, 0, 0);
     box-shadow: 4px 4px 4px #666666;
     border-radius: 23px;
 }
@@ -57,7 +57,7 @@ a{
     text-align: center;
     margin: 20pt;
     background-color: white;
-    border: 9px solid black;
+    border: 5px solid black;
     border-radius: 23px;
 }
 .post h3{
@@ -91,7 +91,7 @@ video{
     font-family: Arial;
     background-color: white;
     margin: 20pt;
-    border: 9px solid rgb(0, 0, 0);
+    border: 5px solid rgb(0, 0, 0);
     box-shadow: 4px 4px 4px #666666;
     border-radius: 23px;
 }
