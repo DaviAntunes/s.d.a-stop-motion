@@ -73,6 +73,15 @@ fieldset{
 }
 video{
     border: 9px solid rgb(187, 187, 187);
+    width: 658px;
+    height: 338px;
+}
+.logo{
+    margin: 0;
+    padding: 0;
+    height: 259px;
+    background-image: url("img/banner.png");
+    border: 1px solid black;
 }
 @media screen and (max-width: 732px){
 
