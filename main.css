@@ -29,12 +29,12 @@ a{
 .card{
     transition: all 150ms;
     display: inline-block;
-    width: 200pt;
+    width: 300pt;
     text-align: center;
     font-family: Arial;
     background-color: white;
     margin: 20pt;
-    border: 5px solid rgb(0, 0, 0);
+    border: 9px solid rgb(0, 0, 0);
     box-shadow: 4px 4px 4px #666666;
     border-radius: 23px;
 }
@@ -83,17 +83,26 @@ video{
     background-image: url("img/banner.png");
     border: 1px solid black;
 }
+.card2{
+    transition: all 150ms;
+    display: inline-block;
+    width: 300pt;
+    text-align: center;
+    font-family: Arial;
+    background-color: white;
+    margin: 20pt;
+    border: 9px solid rgb(0, 0, 0);
+    box-shadow: 4px 4px 4px #666666;
+    border-radius: 23px;
+}
 @media screen and (max-width: 732px){
 
     .card{
-        width: 80%;
+        width: 50%;
         border-radius: 23px;
     }
-    .card img{
-        width: 60%;
-    }
     .post{
-        width: 80%;
+        width: 50%;
         border-radius: 23px;
     }
 }
